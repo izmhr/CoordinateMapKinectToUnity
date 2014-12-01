@@ -1,0 +1,15 @@
+## This is
+
+a MS Kinect app to fit bone with color picture space.
+
+## Based on
+
+https://github.com/kaorun55/CoodinateMapKinectToUnity
+
+## Using
+
+- Unity Pro 4.6.0f3
+- Kinect for Windows v2
+- KinectSDK-v2.0_1409
+- KinectForWindows_UnityPro_2.0.1410
+- Visual Studio 2013 Community
